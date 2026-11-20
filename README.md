@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Meowdia-$$REPO_NAME$$-gray.svg?longCache=true&colorB=brightgreen" />
     <a href="https://crates.io/crates/$$REPO_NAME$$"><img src="https://img.shields.io/crates/v/$$REPO_NAME$$" /></a>
     <a href="https://docs.rs/$$REPO_NAME$$"><img src="https://img.shields.io/docsrs/$$REPO_NAME$$" /></a>
-    <img src="https://img.shields.io/badge/join-us%20on%20discord-gray.svg?longCache=true&logo=discord&colorB=brightblue" />
+    <a href="https://discord.gg/vuVHmzEytt"><img src="https://img.shields.io/discord/1572686475009462433?logo=discord&logoColor=white&label=Meowdia&color=%235865F2" /></a>
     <img src="https://img.shields.io/github/actions/workflow/status/meowdia/$$REPO_NAME$$/ci.yaml" />
 </p>
 
